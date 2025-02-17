@@ -1,6 +1,4 @@
-Projector
-
-Description
+project Description
 
 Projector is a Node.js-based application designed to manage budgets efficiently. 
 The system enables users to add, update, delete, and track their budgets, providing a seamless and structured workflow.
